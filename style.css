@@ -1,8 +1,8 @@
 body{
-    font-family:"JF-Flat-Regular";
+    font-family:"JF Flat Regular";
 }
 @font-face{
-    font-family: 'JF-Flat-Regular';
+    font-family: 'JF Flat Regular';
     src:url('JF-Flat-Regular.ttf') format('tff') ;
 }
 .page-loader-wrapper {
