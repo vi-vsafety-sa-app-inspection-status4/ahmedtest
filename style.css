@@ -1,6 +1,10 @@
 body{
     font-family:"jf flat";
 }
+@font-face{
+    font-family: 'JF-Flat-Regular';
+    src:url('JF-Flat-Regular.ttf') format('tff') ;
+}
 .page-loader-wrapper {
     background: rgba(255, 255, 255, 0.8);
 }
