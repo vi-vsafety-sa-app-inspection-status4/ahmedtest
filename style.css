@@ -70,12 +70,14 @@ body{
 .card-content {
     font-size: 16px;
     padding: 36px 30px;
+    font-family:"jf flat";
 }
 
 .card-row {
     display: flex;
     border-bottom: 1.5px solid #eeeeee;
     margin-bottom: 10px;
+    font-family:"jf flat";
 }
 
 .card-row div {
