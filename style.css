@@ -3,7 +3,7 @@ body{
 }
 @font-face{
     font-family: 'JF-Flat-Regular';
-    src:url('JF-Flat-Regular.ttf') format('tff') ;
+    src:url('https://github.com/vi-vsafety-sa-app-inspection-status4/JF-Flat-Regular/blob/main/JF-Flat-Regular.ttf') format('tff') ;
 }
 .page-loader-wrapper {
     background: rgba(255, 255, 255, 0.8);
